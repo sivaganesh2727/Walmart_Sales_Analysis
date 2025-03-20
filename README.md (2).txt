@@ -94,13 +94,5 @@ git push -u origin main
 🔹 Deploy the dashboard **in an embedded web application**.
 🔹 Enhance with **AI-driven insights** using Power BI AI visuals.
 
----
-#### 🔗 Connect with Me
-📩 **Email:** your.email@example.com  
-🌐 **LinkedIn:** [Your Profile](https://www.linkedin.com/in/your-profile)  
-🚀 **GitHub:** [Your Repos](https://github.com/your-username)  
 
----
-
-**⭐ If you find this project useful, consider giving it a star on GitHub!** 🌟
 
